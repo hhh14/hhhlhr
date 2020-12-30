@@ -1,0 +1,365 @@
+{
+    "goods": [
+        {
+            "gid": 0,
+            "title": "华为畅享20 5G 4GB+64GB 全网通版（亮黑色）",
+            "price": "¥1499.00",
+            "detail": "享受3期免息",
+            "pict1": "static/img/g1/1.png"
+        },
+        {
+            "gid": 1,
+            "title": "HUAWEI Mate 30 RS 保时捷设计 5G全网通 12GB+512GB（玄黑）",
+            "price": "¥12999.00",
+            "detail": "致敬时代",
+            "pict1": "static/img/g2/1.png"
+        },
+        {
+            "gid": 2,
+            "title": "HUAWEI nova 7 Pro 5G 前置3200万追焦双摄 50倍潜望式变焦四摄 麒麟985 5G SoC 8GB+256GB 全网通版（仲夏紫）",
+            "price": "¥12999.00",
+            "detail": "赠送积分",
+            "pict1": "static/img/g3/1.png"
+        },
+        {
+            "gid": 3,
+            "title": "华为畅享20 Pro 6GB+128GB 全网通版（星河银）",
+            "price": "¥1999.00",
+            "detail": "购机赠耳机",
+            "pict1": "static/img/g4/1.png"
+        },
+        {
+            "gid": 4,
+            "title": "荣耀20青春版 AMOLED屏幕指纹 4000mAh大电池 20W快充 4800万AI三摄 全网通 6GB+64GB（冰岛幻境）",
+            "price": "¥1499.00",
+            "detail": "一站式换新",
+            "pict1": "static/img/g5/1.png"
+        },
+        {
+            "gid": 5,
+            "title": "华为畅享20 5G 4GB+64GB 全网通版（亮黑色）",
+            "price": "¥1499.00",
+            "detail": "赠送积分",
+            "pict1": "static/img/g6/1.png"
+        },
+        {
+            "gid": 6,
+            "title": "HUAWEI nova 7 星耀版 8GB+128GB 全网通版（仲夏紫·星耀版）",
+            "price": "¥2999.00 ",
+            "detail": "赠送积分",
+            "pict1": "static/img/g7/1.png"
+        },
+        {
+            "gid": 7,
+            "title": "荣耀Play4T Pro 麒麟810芯片 OLED屏幕指纹 全网通 8GB+128GB（冰岛幻境）",
+            "price": "¥1847.00 ",
+            "detail": "赠送积分",
+            "pict1": "static/img/g8/1.png"
+        },
+        {
+            "gid": 8,
+            "title": "荣耀Play4T 大内存大电池 4800万AI摄影 全网通 6GB+128GB（蓝水翡翠）",
+            "price": "¥1648.00",
+            "detail": "赠送积分",
+            "pict1": "static/img/g9/1.png"
+        },
+        {
+            "gid": 9,
+            "title": "HUAWEI P40 Pro+ 5G 全网通 8GB+256GB（陶瓷白）",
+            "price": "¥7988.00",
+            "detail": "赠送积分",
+            "pict1": "static/img/g10/1.png"
+        },
+        {
+            "gid": 10,
+            "title": "HUAWEI MateBook X 2020款 集显 i5 16G 512G（冰霜银）13英寸3K触控全面屏 轻至1kg超轻薄华为笔记本电脑",
+            "price": "¥8988.00 ",
+            "detail": "3K触控全面屏",
+            "pict1": "static/img/g11/1.png"
+        },
+        {
+            "gid": 11,
+            "title": "荣耀笔记本Pro 2020新款 锐龙版 7nm新品 16.1英寸笔记本电脑（冰河银）MagicBook ",
+            "price": "¥5087.00",
+            "detail": "赠送积分",
+            "pict1": "static/img/g12/1.png"
+        },
+        {
+            "gid": 12,
+            "title": "荣耀笔记本14 2020新款 锐龙版 7nm新品 预装Win 10操作系统 14英寸笔记本电脑",
+            "price": " ¥4387.00",
+            "detail": "轻薄金属机身",
+            "pict1": "static/img/g13/1.png"
+        },
+        {
+            "gid": 13,
+            "title": "【新品】HUAWEI MateBook 13 2020锐龙版 13英寸轻薄2K全面屏办公学习笔记本 皓月银 多屏协同",
+            "price": "¥4599.00",
+            "detail": "2K触控全面屏",
+            "pict1": "static/img/g14/1.png"
+        },
+        {
+            "gid": 14,
+            "title": "荣耀猎人游戏本HONOR HUNTER V700 16.1英寸 游戏笔记本电脑（i7-10750H 16G 512G RTX2060 144Hz 100%sRGB）幻夜黑",
+            "price": "¥8499.00",
+            "detail": "强劲游戏技能",
+            "pict1": "static/img/g15/1.png"
+        },
+        {
+            "gid": 15,
+            "title": "HUAWEI WATCH GT 2 Pro ECG款 曜石黑（46mm）华为智能手表 心电图监测 蓝宝石镜面 钛合金表体 精密陶瓷后壳 蓝牙通话 专业户外运动",
+            "price": "¥2688.00",
+            "detail": "新品上市",
+            "pict1": "static/img/g16/1.png"
+        },
+        {
+            "gid": 16,
+            "title": "华为手环 B6 运动版（曜石黑）智能通话手环3D弧面触控彩屏心率血氧监测睡眠分析",
+            "price": "¥949.00",
+            "detail": "新品上市",
+            "pict1": "static/img/g17/1.png"
+        },
+        {
+            "gid": 17,
+            "title": "华为儿童手表 4X（映海蓝）50米防水 高清双摄 双频11重定位 16G大内存首款麒麟芯片4G全网通儿童手表",
+            "price": " ¥1298.00 ",
+            "detail": "限时直降100元",
+            "pict1": "static/img/g18/1.png"
+        },
+        {
+            "gid": 18,
+            "title": "HUAWEI VR Glass（亮黑色）",
+            "price": "¥2999.00",
+            "detail": "限时特惠",
+            "pict1": "static/img/g19/1.png"
+        },
+        {
+            "gid": 19,
+            "title": "HUAWEI WATCH GT 2 保时捷设计款 钛金灰（46mm）华为智能手表 全钛金属设计 蓝宝石表面 陶瓷背壳 蓝牙通话 专业户外运动",
+            "price": "¥4688.00",
+            "detail": "新品上市",
+            "pict1": "static/img/g20/1.png"
+        },
+        {
+            "gid": 20,
+            "title": "HUAWEI MatePad 10.8英寸 麒麟990旗舰芯片 Wifi6+ 2K高清屏 娱乐影音学习办公平板 6GB+64GB WiFi（香槟金）",
+            "price": "¥2399.00",
+            "detail": "享受3期免息",
+            "pict1": "static/img/g21/1.png"
+        },
+        {
+            "gid": 21,
+            "title": "华为平板 M6 高能版 8.4英寸智能平板电脑 6GB+128GB WiFi（幻影蓝）2K高清屏学生平板 麒麟980芯片 哈曼卡顿调音 GPU Turbo加速游戏平板",
+            "price": "¥2499.00",
+            "detail": "享受3期免息",
+            "pict1": "static/img/g22/1.png"
+        },
+        {
+            "gid": 22,
+            "title": "荣耀平板5 8英寸 4GB+64GB WIFI高配版（苍穹灰）麒麟710芯片 杜比音效 全高清屏）",
+            "price": "¥1299.00",
+            "detail": "全高清屏",
+            "pict1": "static/img/g23/1.png"
+        },
+        {
+            "gid": 23,
+            "title": "荣耀平板V6 10.4英寸 6GB+64GB WiFi（幻夜黑 ） 麒麟985旗舰芯片 2K全面屏 多屏协同 全球首款Wifi6+平板 手写笔套餐",
+            "price": "¥2798.00",
+            "detail": "现货速发",
+            "pict1": "static/img/g24/1.png"
+        },
+        {
+            "gid": 24,
+            "title": "HUAWEI MatePad 5G 10.4英寸 6GB+128GB 5G全网通版 7nm麒麟820芯片 教育学习平板电脑（夜阑灰）",
+            "price": "¥3199.00",
+            "detail": "享受3期免息",
+            "pict1": "static/img/g25/1.png"
+        },
+        {
+            "gid": 25,
+            "title": "荣耀 FlyPods 3真无线耳机（铃兰白）",
+            "price": "¥599.00 ",
+            "detail": "享6期免息",
+            "pict1": "static/img/g26/1.png"
+        },
+        {
+            "gid": 26,
+            "title": "HUAWEI FreeBuds Studio 无线头戴耳机 智慧动态降噪 宽频高解析音质 全场景智慧交互 晨曦金",
+            "price": " ¥1899.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g27/1.png"
+        },
+        {
+            "gid": 27,
+            "title": "HUAWEI FreeLace Pro 无线耳机 双重主动降噪 24小时长续航 晨曦白",
+            "price": "¥549.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g28/1.png"
+        },
+        {
+            "gid": 28,
+            "title": "荣耀xSport 运动蓝牙耳机（魅焰红）",
+            "price": " ¥199.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g29/1.png"
+        },
+        {
+            "gid": 29,
+            "title": "荣耀魔方蓝牙音箱（树莓红）",
+            "price": "¥99.00",
+            "detail": "赠商城积分",
+            "pict1": "static/img/g30/1.png"
+        },
+        {
+            "gid": 30,
+            "title": "华为智慧屏 S 55”60Hz 55英寸 4K超薄全面屏 AI智能液晶电视机 3GB+16GB",
+            "price": "¥3299.00",
+            "detail": "新品预订",
+            "pict1": "static/img/g31/1.png"
+        },
+        {
+            "gid": 31,
+            "title": "华为智慧屏V55i-B 55英寸 4K超高清全面屏 多方视频通话 AI升降式摄像头 4GB+32GB 银钻灰",
+            "price": "¥4299.00",
+            "detail": "赠商城积分",
+            "pict1": "static/img/g32/1.png"
+        },
+        {
+            "gid": 32,
+            "title": "华为智慧屏X65 65英寸 4K HDR超高清OLED 超薄全面屏 2400万超广角AI摄像头 6GB+128GB 星空灰",
+            "price": "¥24999.00",
+            "detail": "赠商城积分",
+            "pict1": "static/img/g33/1.png"
+        },
+        {
+            "gid": 33,
+            "title": "荣耀智慧屏X1系列 55英寸 4K超清全面屏 8K解码 鸿鹄818芯片 大小屏互动 高色域 开机无广告",
+            "price": "¥2699.00",
+            "detail": "赠商城积分",
+            "pict1": "static/img/g34/1.png"
+        },
+        {
+            "gid": 34,
+            "title": "荣耀智慧屏PRO 4G内存版 55英寸4K超清全面屏 鸿蒙系统 鸿鹄818芯片 升降摄像头 开机无广告",
+            "price": "¥4499.00",
+            "detail": "赠商城积分",
+            "pict1": "static/img/g35/1.png"
+        },
+        {
+            "gid": 35,
+            "title": "华为子母路由 Q2 Pro（3母装旗舰版）（白色）",
+            "price": "¥1199.00",
+            "detail": "限时优惠",
+            "pict1": "static/img/g36/1.png"
+        },
+        {
+            "gid": 36,
+            "title": "HUAWEI Sound X 智能音箱（星空之夜）帝瓦雷60W双低音炮 Hi-Res无损音质 一碰传音 智慧空间感知 ",
+            "price": "¥1699.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g37/1.png"
+        },
+        {
+            "gid": 37,
+            "title": "华为5G随行WiFi（陶瓷白）5G上网伴侣 5G双模全网通 强劲续航 便捷扫码上网",
+            "price": "¥1699.00",
+            "detail": "限时优惠",
+            "pict1": "static/img/g38/1.png"
+        },
+        {
+            "gid": 38,
+            "title": "华为随行WiFi 3（白色）",
+            "price": "¥299.00",
+            "detail": "限时优惠",
+            "pict1": "static/img/g39/1.png"
+        },
+        {
+            "gid": 39,
+            "title": "荣耀猎人路由 5G双千兆 凌霄四核CPU Game Turbo专业手游加速 游戏专用通道",
+            "price": " ¥329.00 ",
+            "detail": "限时直降",
+            "pict1": "static/img/g40/1.png"
+        },
+        {
+            "gid": 40,
+            "title": "蓓慈智能足浴器 BZ307B1 白色（支持HUAWEI HiLink）",
+            "price": " ¥299.00",
+            "detail": "水电分离技术",
+            "pict1": "static/img/g41/1.png"
+        },
+        {
+            "gid": 41,
+            "title": "华为智选 海雀AI全景摄像头 白色（支持HUAWEI HiLink）",
+            "price": "¥299.00",
+            "detail": "用心看护家宠",
+            "pict1": "static/img/g42/1.png"
+        },
+        {
+            "gid": 42,
+            "title": "荣耀亲选生态产品 智能保温杯 vsitoo 天空蓝（支持HUAWEI HiLink）",
+            "price": "¥169.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g43/1.png"
+        },
+        {
+            "gid": 43,
+            "title": "触控屏智能锁 Q7 青稞 玄英黑（支持 HUAWEI HiLink）",
+            "price": " ¥1849.00",
+            "detail": "国内密核",
+            "pict1": "static/img/g44/1.png"
+        },
+        {
+            "gid": 44,
+            "title": "HUAWEI HiLink生态产品 力博得智能声波牙刷 优漾 珊瑚粉（支持HUAWEI HiLink）",
+            "price": "¥179.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g45/1.png"
+        },
+        {
+            "gid": 45,
+            "title": "荣耀亲选生态产品 生物陶瓷顺发电吹风 诗杭 朱砂红",
+            "price": "¥179.00",
+            "detail": "科技美学电吹风",
+            "pict1": "static/img/g46/1.png"
+        },
+        {
+            "gid": 46,
+            "title": "55度moscup智能降温杯（星际灰）",
+            "price": "¥189.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g47/1.png"
+        },
+        {
+            "gid": 47,
+            "title": "纯麦 K歌无线麦克风 U7 Pro 双麦克风 白色 荣耀版（DESIGN FOR HONOR认证）",
+            "price": " ¥399.00 ¥",
+            "detail": "限时直降",
+            "pict1": "static/img/g48/1.png"
+        },
+        {
+            "gid": 48,
+            "title": "HUAWEI Mate 40 硅胶保护壳（玻璃背盖版专用）丁香紫",
+            "price": "¥99.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g49/1.png"
+        },
+        {
+            "gid": 49,
+            "title": "华为超级快充车载充电器（Max 66W）黑色",
+            "price": "¥214.00",
+            "detail": "限时直降",
+            "pict1": "static/img/g50/1.png"
+        }
+    ],
+    "shoppingcar": [
+        {
+            "gid": ""
+        },
+        {
+            "gid": ""
+        },
+        {
+            "gid": ""
+        }
+    ]
+}
